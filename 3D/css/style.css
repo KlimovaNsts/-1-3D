@@ -1,0 +1,24 @@
+body{
+  font-family: normal;
+  font-style: italic;
+  font-weight: bold;
+  text-align:center;
+}
+#header {
+  display: flex;
+  margin-bottom: 20px;
+  justify-content: center;
+}
+
+#header button {
+  width: 100px;
+}
+
+
+.hide {
+  display: none !important;
+}
+
+#graph3D:focus {
+  outline: none;
+}
